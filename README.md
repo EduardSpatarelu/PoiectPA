@@ -4,9 +4,9 @@
 Aceasta este o aplicație care corectează un șir de caractere generat aleatoriu sau introdus de utilizator pentru a se potrivi cu o regulă dată.
 
 # Structura proiectului
-main.c: Conține funcția principală care rulează aplicația; \n
-func.c: Conține implementarea funcțiilor necesare pentru manipularea și corectarea șirurilor.
-func.h: Header-ul care declară funcțiile și structurile de date utilizate.
+main.c: Conține funcția principală care rulează aplicația;
+func.c: Conține implementarea funcțiilor necesare pentru manipularea și corectarea șirurilor;
+func.h: Header-ul care declară funcțiile și structurile de date utilizate;
 README.md: Acest fișier, care conține instrucțiuni de compilare și utilizare.
 
 # Cerințe
