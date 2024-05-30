@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1717018497 source:c:\users\edy\documents\codeblocks\proiectpa\corectcod\c\func.c
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"func.h"
+
+1717018461 c:\users\edy\documents\codeblocks\proiectpa\corectcod\c\func.h
+
+1717018543 source:c:\users\edy\documents\codeblocks\proiectpa\corectcod\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"func.h"
+
